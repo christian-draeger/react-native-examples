@@ -6,7 +6,7 @@ import Button from './Button'
 
 const AlbumDetail = ({ album }) => {
 
-    const { title, artist, thumbnail_image, image } = album;
+    const { title, artist, thumbnail_image, image, url } = album;
     const {
         thumbnailStyle,
         headerTextStyle,
@@ -37,7 +37,7 @@ const AlbumDetail = ({ album }) => {
             </CardSection>
 
             <CardSection>
-                <Button />
+                <Button onPress={() => console.log(url)} />
             </CardSection>
         </Card>
     );
