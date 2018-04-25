@@ -1,6 +1,8 @@
 React Native Example Apps
 =========================
 
+This is a react-native playground of mine.
+
 prerequisites
 -------------
 
