@@ -17,6 +17,9 @@ prerequisites
 * if you want to work with an iOS simulator you need to have XCode installed
 
 * if you want to work with an Android simulator you need to have one running (for instance by using Android Studios AVD Manager or Genymotion)
+
+* if you want to run an app on a real device install expo for [Android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [iPhone](https://itunes.apple.com/us/app/expo-client/id982107779).
+After running an project on your local mashine a QR code will be prompted on your terminal. Scan this QR Code via the Expo App (your develpment mashine and your mobile device needs to be in the same WLAN to make magic happen).
 	
 	
 add a new project
