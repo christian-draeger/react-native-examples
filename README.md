@@ -3,13 +3,15 @@ React Native Example Apps
 
 This is a react-native playground of mine.
 
-including:
-----------
+included projects:
+------------------
 
-[albums](https://github.com/christian-draeger/react-native-examples/tree/master/albums)
+[albums](https://github.com/christian-draeger/react-native-examples/tree/master/albums) (not using redux)
 * communicates with an rest api and shows a tile view of music albums including artist name, artist picture, album name, album cover and a buy link
-	
 
+auth (not using redux)
+* an login view that communicates with firebase as authentication service. performes ristrations as well as logins, error handling and conditional views
+	
 prerequisites
 -------------
 
