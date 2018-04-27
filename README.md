@@ -3,6 +3,13 @@ React Native Example Apps
 
 This is a react-native playground of mine.
 
+including:
+----------
+
+[albums](https://github.com/christian-draeger/react-native-examples/tree/master/albums)
+* communicates with an rest api and shows a tile view of music albums including artist name, artist picture, album name, album cover and a buy link
+	
+
 prerequisites
 -------------
 
