@@ -6,7 +6,7 @@ export default class App extends Component {
     render() {
         return (
             <View>
-                <Header headerText={"Authentication"}></Header>
+                <Header headerText={"Authentication"} />
                 <Text>An App</Text>
             </View>
         );
