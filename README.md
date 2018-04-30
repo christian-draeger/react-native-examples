@@ -9,8 +9,8 @@ included projects:
 [albums](https://github.com/christian-draeger/react-native-examples/tree/master/albums) (not using redux)
 * communicates with an rest api and shows a tile view of music albums including artist name, artist picture, album name, album cover and a buy link
 
-auth (not using redux)
-* an login view that communicates with firebase as authentication service. performes ristrations as well as logins, error handling and conditional views
+[auth](https://github.com/christian-draeger/react-native-examples/tree/master/auth) (not using redux)
+* an login view that communicates with firebase as authentication service. performes registrations as well as logins, error handling and conditional views
 	
 prerequisites
 -------------
