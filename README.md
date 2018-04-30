@@ -11,6 +11,8 @@ included projects:
 
 [auth](https://github.com/christian-draeger/react-native-examples/tree/master/auth) (not using redux)
 * an login view that communicates with firebase as authentication service. performes registrations as well as logins, error handling and conditional views
+
+[accordion](https://github.com/christian-draeger/react-native-examples/tree/master/accordion) (using redux)
 	
 prerequisites
 -------------
